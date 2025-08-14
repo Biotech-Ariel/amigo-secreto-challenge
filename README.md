@@ -1,6 +1,8 @@
 <h1 align="center"> Challenge: El Amigo Secreto </h1>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align
+
+-items: center; min-height: 300px;">
   <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/a29969ed-523b-4c55-84b8-7557a7417951" />
 </div>
 
