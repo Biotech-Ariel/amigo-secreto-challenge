@@ -4,6 +4,9 @@
   <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/a29969ed-523b-4c55-84b8-7557a7417951" />
 </div>
 
+| <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/a29969ed-523b-4c55-84b8-7557a7417951" /> |
+|:------------------------------------------------------------------------------------------------------------------------------------------:|
+
 ## Índice
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Estado del proyecto](#Estado-del-proyecto)
