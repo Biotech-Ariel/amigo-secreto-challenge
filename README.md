@@ -1,7 +1,7 @@
 <h1 align="center"> Challenge: El Amigo Secreto </h1>
 <img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/a29969ed-523b-4c55-84b8-7557a7417951" />
 
-
+##Indice
 *[Descripción del proyecto](#descripción-del-proyecto)
 *[Estado del proyecto](#Estado-del-proyecto)
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
